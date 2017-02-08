@@ -23,17 +23,10 @@
 }
 
 #bloc_page {
-
+width: 900px;
+margin: auto;
 }
 
 body {
-
-}
-
-h1 {
-  font-family: scripttitle;
-}
-
-h2 {
-  font-family: thyssen;
+  font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
 }
