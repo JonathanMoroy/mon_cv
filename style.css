@@ -5,7 +5,7 @@
          url('police/scripttitle-webfont.woff2') format('woff2'),
          url('police/scripttitle-webfont.woff') format('woff'),
          url('police/scripttitle-webfont.ttf') format('truetype'),
-         url('police/scripttitle-webfont.svg#shaded_larch_personal_use_oRg') format('svg');
+         url('police/scripttitle-webfont.svg#scripttitle') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -17,7 +17,7 @@
          url('police/thyssen-webfont.woff2') format('woff2'),
          url('police/thyssen-webfont.woff') format('woff'),
          url('police/thyssen-webfont.ttf') format('truetype'),
-         url('police/thyssen-webfont.svg#webfontregular') format('svg');
+         url('police/thyssen-webfont.svg#thyssen') format('svg');
     font-weight: normal;
     font-style: normal;
 }
