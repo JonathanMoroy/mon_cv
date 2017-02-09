@@ -26,7 +26,7 @@
 
 /* Propriétés de mon body et de mon bloc page */
 #bloc_page {
-  width: 900px;
+  width: 1200px;
   margin: auto;
 }
 
@@ -90,3 +90,5 @@ nav img {
 nav div p {
   margin-left: 1px;
 }
+
+/* Position et configuration du texte du nav */
