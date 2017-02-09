@@ -29,14 +29,14 @@
   width: 1200px;
   margin: auto;
   height: 1980px;
-  background-image: url("background/space.jpg");
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 body {
   font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+  background-image: url("background/bckgrnd.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 /* Dimension et configuration de mon header */
@@ -46,7 +46,6 @@ header {
   height: 300px;
   color: #00FF00;
   border-bottom: 1px solid #00FF00;
-  opacity: 0.9;
 }
 
 /* Position et configuration du titre de mon header */
