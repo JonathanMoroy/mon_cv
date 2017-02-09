@@ -1,3 +1,5 @@
+
+/* Set-up pour ma police d'écriture personnalisée */
 @font-face {
   font-family: 'scripttitle';
   src: url('police/scripttitle-webfont.eot');
@@ -22,6 +24,7 @@
   font-style: normal;
 }
 
+/* Propriétés de mon body et de mon bloc page */
 #bloc_page {
   width: 900px;
   margin: auto;
@@ -31,17 +34,19 @@ body {
   font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
 }
 
+/* Dimension et configuration de mon header */
 header {
   background-color: black;
   position: relative;
   height: 300px;
-  color: green;
+  color: #00FF00;
 }
 
+/* Position et configuration du titre de mon header */
 #header_title {
   margin-left: 15px;
   font-size: 4em;
-  font-family: scripttitle;
+  font-family: scripttitle, 'Brush Script Std', 'Brush Script MT', cursive;
   position: absolute;
   bottom: 150px;
 }
@@ -55,6 +60,7 @@ header {
   left: 140px;
 }
 
+/* Position et dimension du nav */
 nav {
   position: absolute;
   height: 300px;
@@ -62,6 +68,7 @@ nav {
   top: 10px;
 }
 
+/* Position et dimension des flêches */
 nav img {
   height: 140px;
   width: 140px;
@@ -78,4 +85,8 @@ nav img {
   position: absolute;
   right: 1px;
   bottom: 0px;
+}
+
+nav div p {
+  margin-left: 1px;
 }
